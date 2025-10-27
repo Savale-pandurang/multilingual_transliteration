@@ -57,7 +57,7 @@ A trained Seq2Seq transliteration model capable of converting words from Roman s
 
 ---
 
-##  References
+#  References
 
 To apply the concept of a **character-level sequence-to-sequence model** for transliteration, we referred to the following key research works and incorporated their methodologies into our implementation:
 
