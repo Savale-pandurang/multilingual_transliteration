@@ -7,12 +7,12 @@ Each data pair consists of a romanized word and its native-script equivalent:
 
 ---
 
-##  Objective
+###  Objective
 Design and train a **sequence-to-sequence (Seq2Seq)** model using **RNN-based architectures** that can automatically learn the mapping between characters in different scripts.
 
 ---
 
-##  Model Architecture
+###  Model Architecture
 
 The model includes the following key components:
 
@@ -22,7 +22,7 @@ The model includes the following key components:
 
 ---
 
-##  Implementation Details
+###  Implementation Details
 
 - Implemented in **Python** using frameworks like **PyTorch** or **TensorFlow**.  
 - Should be **runnable on Google Colab or Kaggle** with **GPU acceleration**.  
@@ -36,7 +36,7 @@ The model includes the following key components:
 
 ---
 
-##  Additional Task
+###  Additional Task
 
 Compute the **total number of computations and parameters** in the network under simplified assumptions:
 - Single-layer encoder and decoder  
@@ -45,19 +45,19 @@ Compute the **total number of computations and parameters** in the network under
 
 ---
 
-##  Dataset
+###  Dataset
 **Aksharantar Dataset**  
 A multilingual transliteration dataset containing pairs of Romanized and native-script words across several Indian languages.
 
 ---
 
-##  Expected Outcome
+###  Expected Outcome
 A trained Seq2Seq transliteration model capable of converting words from Roman script to native script (e.g., Hindi, Marathi, Tamil, etc.) with high accuracy.
 
 
 ---
 
-##  References
+###  References
 
 To apply the concept of a **character-level sequence-to-sequence model** for transliteration, we referred to the following key research works and incorporated their methodologies into our implementation:
 
