@@ -30,7 +30,7 @@ The model includes the following key components:
   - Embedding dimension  
   - Hidden size  
   - RNN type (LSTM / GRU / Vanilla RNN)  
-  - Number of layers  
+  - Number of layers.
 
 - Maintained in a **GitHub repository** following proper version control and documentation practices.
 
